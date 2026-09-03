@@ -1,0 +1,11 @@
+# Runtime + development dependencies
+flask>=3.0,<4
+pandas>=2.2,<3
+numpy>=1.26,<3
+scikit-learn>=1.5,<2
+joblib>=1.4,<2
+
+# Development / analysis
+pytest>=8,<9
+matplotlib>=3.9,<4
+jupyter>=1.0,<2
